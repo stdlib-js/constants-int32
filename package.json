@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-int32",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "32-bit signed integer mathematical constants.",
   "license": "Apache-2.0",
   "author": {
@@ -37,8 +37,8 @@
   "dependencies": {
     "@stdlib/constants-int32-max": "^0.3.0",
     "@stdlib/constants-int32-min": "^0.2.2",
-    "@stdlib/constants-int32-num-bytes": "^0.2.2",
-    "@stdlib/utils-define-read-only-property": "^0.2.2"
+    "@stdlib/constants-int32-num-bytes": "^0.2.3",
+    "@stdlib/utils-define-read-only-property": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/math-base-special-pow": "^0.3.0",
